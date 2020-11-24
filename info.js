@@ -8,6 +8,11 @@ function Employment() {
       <p>Software Engineer</p>
       <p>2020-Present</p>
       <p>Search Optimization</p>
+
+      <p>Facebook, Inc</p>
+      <p>Software Engineer</p>
+      <p>2017-2019</p>
+      <p>Search Optimization</p>
     </section>
   );
 }
@@ -33,10 +38,16 @@ function Education() {
       <h2>EDUCATION</h2>
       <ul>
         <li>
-          <p>University of Phoenix</p>
+          <p class="title">University of Phoenix</p>
           <p>Associates of Science</p>
           <p>2017-2019</p>
           <p>GPA: 3.64</p>
+        </li>
+        <li>
+          <p class="title">SCAD</p>
+          <p>Bachelor of Arts</p>
+          <p>2013-2017</p>
+          <p>GPA: 3.50</p>
         </li>
       </ul>
     </aside>

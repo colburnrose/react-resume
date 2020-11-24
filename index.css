@@ -1,7 +1,7 @@
 * {
   box-sizing: border-box;
   list-style-type: none;
-  font-family: "Montserrat", sans-serif;
+  font-family: "IBM Plex Serif", sans-serif;
 }
 
 @media (min-width: 600px) {
@@ -24,6 +24,7 @@
   flex: 1;
   order: 1;
   padding: 20px;
+  width: 25%;
 }
 
 .right-column {
@@ -49,7 +50,7 @@ section li {
 
 header {
   width: 100%;
-  background-color: blue;
+  background-color: gray;
   display: flex;
   color: #fff;
   text-align: center;
@@ -69,14 +70,13 @@ address {
 }
 
 address p {
-  padding-right: 10px;
   text-align: center;
+  margin-top: 25px;
+  margin-left: 100px;
 }
 
 header h1 {
-  flex: 1;
-  float: left;
-  position: relative;
+  margin-left: 50px;
 }
 
 body {
@@ -84,4 +84,13 @@ body {
   width: 90%;
   padding: 20px;
   justify-content: center;
+}
+
+h2 {
+  font-weight: bolder;
+  color: #000;
+}
+
+.title p {
+  font-weight: bold;
 }
