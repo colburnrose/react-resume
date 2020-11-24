@@ -12,7 +12,7 @@ function Employment() {
       <p>Facebook, Inc</p>
       <p>Software Engineer</p>
       <p>2017-2019</p>
-      <p>Search Optimization</p>
+      <p>Language Responsibilities</p>
     </section>
   );
 }
@@ -44,7 +44,7 @@ function Education() {
           <p>GPA: 3.64</p>
         </li>
         <li>
-          <p class="title">SCAD</p>
+          <p className="title">SCAD</p>
           <p>Bachelor of Arts</p>
           <p>2013-2017</p>
           <p>GPA: 3.50</p>

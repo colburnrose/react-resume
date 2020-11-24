@@ -69,11 +69,11 @@ address {
   font-weight: 300;
 }
 
-address p {
+/* address p {
   text-align: center;
   margin-top: 25px;
   margin-left: 100px;
-}
+} */
 
 header h1 {
   margin-left: 50px;
