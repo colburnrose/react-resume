@@ -12,7 +12,7 @@ function Employment() {
       <p>Facebook, Inc</p>
       <p>Software Engineer</p>
       <p>2017-2019</p>
-      <p>Search Optimization</p>
+      <p>Language Responsibilities</p>
     </section>
   );
 }
